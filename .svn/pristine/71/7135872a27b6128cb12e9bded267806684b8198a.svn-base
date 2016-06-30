@@ -1,0 +1,9 @@
+src.java=${basedir}/src
+src.junit=${basedir}/test
+
+target=${basedir}/build
+target.java=${target}/java
+target.jar=${target}/jar
+target.junit=${target}/junit
+target.testreports=${target}/testreports
+libs=${basedir}/libs
